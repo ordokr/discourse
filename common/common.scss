@@ -1,3 +1,11 @@
+@font-face {
+  font-family: Taebaek;
+  src: url($taebaek) format('woff2')
+}
+
+body {
+    font-family: Taebaek;
+}
 // custom search banner customizations
 .custom-search-banner-wrap {
   margin: 0 auto !important;

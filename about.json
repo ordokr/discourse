@@ -7,6 +7,9 @@
     "https://github.com/discourse/discourse-clickable-topic.git",
     "https://github.com/discourse/discourse-search-banner.git"
   ],
+	"assets": {
+        "Taebaek": "assets/taebaek.woff2"
+   }
   "modifiers": {
     "serialize_topic_excerpts": true
   },
