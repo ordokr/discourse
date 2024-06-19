@@ -4,8 +4,8 @@
   "license_url": "https://github.com/discourse/discourse-air/blob/main/LICENSE",
   "assets": {
         "Taebaek": "assets/taebaek.woff2"
-   }
-	"components": [
+   },
+  "components": [
     "https://github.com/jordanvidrine/discourse-category-group-boxes.git",
     "https://github.com/discourse/discourse-clickable-topic.git",
     "https://github.com/discourse/discourse-search-banner.git"
