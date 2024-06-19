@@ -1,5 +1,5 @@
 {
-  "name": "Air Theme",
+  "name": "Ordo Theme",
   "about_url": "https://meta.discourse.org/t/discourse-air-theme/197703",
   "license_url": "https://github.com/discourse/discourse-air/blob/main/LICENSE",
   "components": [
@@ -11,29 +11,33 @@
     "serialize_topic_excerpts": true
   },
   "color_schemes": {
-    "air-light": {
-      "primary": "1c1c1c",
-      "secondary": "f9fcff",
-      "tertiary": "3877e5",
-      "quaternary": "7e8b93",
-      "header_background": "f9fcff",
-      "header_primary": "122b43",
-      "highlight": "e6cb37",
-      "danger": "d05454",
-      "success": "71bd9f",
-      "love": "c16ad7"
-    },
-    "air-dark": {
-      "primary": "e0e0e0",
-      "secondary": "2d2d2d",
-      "tertiary": "9a5cfd",
-      "quaternary": "71bd9f",
-      "header_background": "202020",
-      "header_primary": "e0e0e0",
-      "highlight": "9a5cfd",
-      "danger": "d05454",
-      "success": "71bd9f",
-      "love": "c16ad7"
-    }
+   "air-light": {
+  "primary": "092235",
+  "secondary": "f9fcff",
+  "tertiary": "8f743a",
+  "quaternary": "092235",
+  "header_background": "f9fcff",
+  "header_primary": "092235",
+  "highlight": "e6cb37",
+  "danger": "d05454",
+  "success": "71bd9f",
+  "love": "c16ad7",
+  "selected": "d1f0ff",
+  "hover": "f2f2f2"
+},
+    "air-dark1": {
+  "primary": "e0e0e0",
+  "secondary": "092235",
+  "tertiary": "8f743a",
+  "quaternary": "962c2c",
+  "header_background": "092235",
+  "header_primary": "e0e0e0",
+  "highlight": "9a5cfd",
+  "danger": "d01111",
+  "success": "08bf76",
+  "love": "c02a2a",
+  "selected": "d1f0ff",
+  "hover": "f2f2f2"
+     }
   }
 }
